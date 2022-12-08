@@ -166,6 +166,6 @@ btn:visited {
     
 }
 .btn-animated{
-    animation: moveInDown 1s ease-out .75s;
+    animation: moveInDown 1s ease-out .8s;
     animation-fill-mode: backwards;
 }
